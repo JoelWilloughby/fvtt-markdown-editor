@@ -1,6 +1,5 @@
 import EasyMDE from './easymde/easymde.js';
 
-import {initChatEditor} from './chat-editor.js';
 import {renderWelcomeScreen} from './welcome-screen.js';
 renderWelcomeScreen();
 
